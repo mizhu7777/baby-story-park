@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Agnes 生成的原始 PNG 缓存，不进版本库（WebP 成品在 public/ 下）
+tools/.cache/

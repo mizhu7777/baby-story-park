@@ -1,0 +1,382 @@
+[
+  {
+    "id": "story-01",
+    "title": "小兔子第一次交朋友",
+    "theme": "勇敢问候、友好相处",
+    "cover": "images/stories/story-01/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-01/page-01.webp",
+        "text": "春天到了，小兔子背上小书包，来到森林草地上。这里真漂亮，可是它一个朋友也不认识。"
+      },
+      {
+        "image": "images/stories/story-01/page-02.webp",
+        "text": "它看见小松鼠在树下收松果。小兔子想过去，又有一点害羞。"
+      },
+      {
+        "image": "images/stories/story-01/page-03.webp",
+        "text": "小兔子深吸一口气，轻轻说：“你好！我可以和你一起玩吗？”"
+      },
+      {
+        "image": "images/stories/story-01/page-04.webp",
+        "text": "小松鼠开心地点点头：“当然可以！”它们一起捡松果，还把松果分给其他小动物。"
+      },
+      {
+        "image": "images/stories/story-01/page-05.webp",
+        "text": "玩得真开心！小兔子发现，只要勇敢地说出“你好”，就可能交到新朋友。"
+      }
+    ],
+    "quiz": {
+      "question": "想和小伙伴一起玩，可以怎么说？",
+      "options": [
+        "把玩具抢过来",
+        "笑着问：“可以一起玩吗？”",
+        "躲起来不说话"
+      ],
+      "answerIndex": 1,
+      "explanation": "先友好地打招呼，再问一问对方愿不愿意一起玩。"
+    }
+  },
+  {
+    "id": "story-02",
+    "title": "小熊学会自己刷牙",
+    "theme": "养成刷牙习惯、爱护牙齿",
+    "cover": "images/stories/story-02/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-02/page-01.webp",
+        "text": "小熊最喜欢吃点心。蛋糕、饼干香香甜甜，它吃得可开心了。"
+      },
+      {
+        "image": "images/stories/story-02/page-02.webp",
+        "text": "可是，小熊有时吃完点心就去玩，忘了刷牙。一天晚上，它觉得牙齿不舒服。"
+      },
+      {
+        "image": "images/stories/story-02/page-03.webp",
+        "text": "妈妈陪小熊去看牙医。牙医温柔地说：“每天认真刷牙，牙齿才会更健康。”"
+      },
+      {
+        "image": "images/stories/story-02/page-04.webp",
+        "text": "回家后，妈妈陪着小熊刷牙。上面刷一刷，下面刷一刷，里里外外慢慢刷干净。"
+      },
+      {
+        "image": "images/stories/story-02/page-05.webp",
+        "text": "从那以后，小熊每天早晚都刷牙。牙齿干净了，它笑起来也更开心了。"
+      }
+    ],
+    "quiz": {
+      "question": "小熊为什么要每天刷牙？",
+      "options": [
+        "让牙齿保持干净健康",
+        "让牙刷变漂亮",
+        "因为牙齿喜欢吃饼干"
+      ],
+      "answerIndex": 0,
+      "explanation": "认真刷牙是爱护牙齿的好习惯，家长可以陪孩子一起完成。"
+    }
+  },
+  {
+    "id": "story-03",
+    "title": "小猫咪找回红气球",
+    "theme": "遇到困难求助、不攀爬高处",
+    "cover": "images/stories/story-03/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-03/page-01.webp",
+        "text": "小猫咪拿着红气球，在花园里开心地散步。红气球像一朵小红花，跟着它轻轻摇。"
+      },
+      {
+        "image": "images/stories/story-03/page-02.webp",
+        "text": "一阵风吹来，气球的线从小猫咪的爪边滑走，红气球慢慢飘到了高高的树枝上。"
+      },
+      {
+        "image": "images/stories/story-03/page-03.webp",
+        "text": "小猫咪很着急，但它没有爬树。它知道树太高了，自己爬上去很危险。"
+      },
+      {
+        "image": "images/stories/story-03/page-04.webp",
+        "text": "小猫咪去找熟悉的大人帮忙。大人拿来长长的取物杆，小心地把气球取了下来。"
+      },
+      {
+        "image": "images/stories/story-03/page-05.webp",
+        "text": "小猫咪开心地说：“谢谢你！”它记住了：遇到困难，可以找信任的大人帮忙，不要冒险。"
+      }
+    ],
+    "quiz": {
+      "question": "气球挂在很高的树上，小猫咪应该怎么办？",
+      "options": [
+        "自己爬上树",
+        "找信任的大人帮忙",
+        "用力摇树枝"
+      ],
+      "answerIndex": 1,
+      "explanation": "高处可能有危险，应该请大人帮忙，不要自己攀爬。"
+    }
+  },
+  {
+    "id": "story-04",
+    "title": "小鸭子学游泳",
+    "theme": "勇敢尝试、水边安全",
+    "cover": "images/stories/story-04/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-04/page-01.webp",
+        "text": "小鸭子看到池塘里的水闪闪发亮，想跟鸭妈妈一起游泳。"
+      },
+      {
+        "image": "images/stories/story-04/page-02.webp",
+        "text": "鸭妈妈说：“可以呀！不过我会一直在你身边，我们只在安全的浅水处练习。”"
+      },
+      {
+        "image": "images/stories/story-04/page-03.webp",
+        "text": "小鸭子先把小脚放进水里，轻轻划一划。刚开始它有一点紧张，鸭妈妈就在旁边鼓励它。"
+      },
+      {
+        "image": "images/stories/story-04/page-04.webp",
+        "text": "小鸭子跟着妈妈慢慢向前游。练习了一会儿，它越来越稳，还开心地拍起小翅膀。"
+      },
+      {
+        "image": "images/stories/story-04/page-05.webp",
+        "text": "小鸭子很高兴。它记住了：玩水一定要有大人陪伴，不能自己跑到池塘边。"
+      }
+    ],
+    "quiz": {
+      "question": "小朋友想在水边玩，应该怎么做？",
+      "options": [
+        "自己偷偷去",
+        "请大人陪着，并听大人的安排",
+        "跑到水里试试看"
+      ],
+      "answerIndex": 1,
+      "explanation": "水边活动要有大人看护，不要独自靠近池塘或下水。"
+    }
+  },
+  {
+    "id": "story-05",
+    "title": "小松鼠整理玩具",
+    "theme": "玩后归位、培养整理习惯",
+    "cover": "images/stories/story-05/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-05/page-01.webp",
+        "text": "小松鼠玩了积木、小汽车和毛绒熊。玩得太开心，玩具散得到处都是。"
+      },
+      {
+        "image": "images/stories/story-05/page-02.webp",
+        "text": "它想找最喜欢的小汽车，却怎么也找不到，急得团团转。"
+      },
+      {
+        "image": "images/stories/story-05/page-03.webp",
+        "text": "松鼠妈妈说：“我们一起收拾吧。积木放进这个盒子，小汽车放进那个盒子。”"
+      },
+      {
+        "image": "images/stories/story-05/page-04.webp",
+        "text": "小松鼠一件一件把玩具放回盒子。房间慢慢变整齐了，走路也不会踩到玩具。"
+      },
+      {
+        "image": "images/stories/story-05/page-05.webp",
+        "text": "第二天，小松鼠一下就找到了小汽车！它发现，玩完把玩具收好，下次找起来更方便。"
+      }
+    ],
+    "quiz": {
+      "question": "玩具玩完以后，应该怎么做？",
+      "options": [
+        "丢在地上",
+        "全部藏到床底下",
+        "把玩具放回合适的盒子"
+      ],
+      "answerIndex": 2,
+      "explanation": "玩完后把东西放回原位，房间更整齐，也更容易找到玩具。"
+    }
+  },
+  {
+    "id": "story-06",
+    "title": "小猴子学会自己穿衣服",
+    "theme": "自己的事情自己做",
+    "cover": "images/stories/story-06/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-06/page-01.webp",
+        "text": "天亮了，小猴子刚起床。它的衣服皱皱的，它想自己穿衣服。"
+      },
+      {
+        "image": "images/stories/story-06/page-02.webp",
+        "text": "小猴子先把小脑袋从领口钻出来，又把两只小手伸进袖子里。"
+      },
+      {
+        "image": "images/stories/story-06/page-03.webp",
+        "text": "可是裤子有点紧。小猴子使劲一拉，差点摔了一跤。"
+      },
+      {
+        "image": "images/stories/story-06/page-04.webp",
+        "text": "妈妈说：“先坐好，再一条腿一条腿地穿。”小猴子照着做，果然穿好了。"
+      },
+      {
+        "image": "images/stories/story-06/page-05.webp",
+        "text": "从那以后，小猴子每天早上都自己穿衣服。猴妈妈笑得很开心。"
+      }
+    ],
+    "quiz": {
+      "question": "穿裤子的时候，应该怎么做？",
+      "options": [
+        "坐着，一条腿一条腿地穿",
+        "站着使劲往上跳着穿",
+        "让裤子自己在腿上跳"
+      ],
+      "answerIndex": 0,
+      "explanation": "先坐好再穿，一只脚一只脚来，就不会摔倒。"
+    }
+  },
+  {
+    "id": "story-07",
+    "title": "小狗学会说谢谢",
+    "theme": "礼貌用语、学会道歉",
+    "cover": "images/stories/story-07/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-07/page-01.webp",
+        "text": "小狗在草地上跑呀跑，一不小心撞倒了小兔子的积木城堡。"
+      },
+      {
+        "image": "images/stories/story-07/page-02.webp",
+        "text": "小兔子有点难过，说：“那是我搭了好久好久才搭好的呀。”"
+      },
+      {
+        "image": "images/stories/story-07/page-03.webp",
+        "text": "小狗低下头，小声说：“对不起，我帮你重新搭吧。”"
+      },
+      {
+        "image": "images/stories/story-07/page-04.webp",
+        "text": "小兔子笑了：“没关系，谢谢你！”小狗心里暖暖的。"
+      },
+      {
+        "image": "images/stories/story-07/page-05.webp",
+        "text": "从那以后，小狗每次得到帮助，都会说一声“谢谢”。它交到了更多好朋友。"
+      }
+    ],
+    "quiz": {
+      "question": "不小心碰到别人的玩具，应该怎么做？",
+      "options": [
+        "大声说“对不起，我帮你重新搭”",
+        "马上跑开，装作没看见",
+        "再推倒一次"
+      ],
+      "answerIndex": 0,
+      "explanation": "先说对不起，再想办法补救，别人就会原谅你。"
+    }
+  },
+  {
+    "id": "story-08",
+    "title": "小刺猬按时睡觉",
+    "theme": "早睡早起、健康作息",
+    "cover": "images/stories/story-08/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-08/page-01.webp",
+        "text": "天黑了，小刺猬还在客厅看电视，说什么也不肯去睡觉。"
+      },
+      {
+        "image": "images/stories/story-08/page-02.webp",
+        "text": "刺猬妈妈轻轻地说：“该睡觉啦，明天还要早起呢。”"
+      },
+      {
+        "image": "images/stories/story-08/page-03.webp",
+        "text": "小刺猬说：“再看一集嘛。”结果第二天早上，它怎么都起不来，眼睛也睁不开。"
+      },
+      {
+        "image": "images/stories/story-08/page-04.webp",
+        "text": "刺猬妈妈说：“晚上早点睡，早上才有力气。睡前我们可以讲一个小故事。”"
+      },
+      {
+        "image": "images/stories/story-08/page-05.webp",
+        "text": "从那以后，小刺猬每天按时睡觉，第二天都精神满满的。"
+      }
+    ],
+    "quiz": {
+      "question": "晚上应该怎么做，第二天才有力气？",
+      "options": [
+        "按时睡觉",
+        "一直看电视到很晚",
+        "睡前吃很多糖"
+      ],
+      "answerIndex": 0,
+      "explanation": "晚上早点睡，早上起床才有精神，个子也长得快。"
+    }
+  },
+  {
+    "id": "story-09",
+    "title": "小鹿吃饭不挑食",
+    "theme": "健康饮食、每样都尝一口",
+    "cover": "images/stories/story-09/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-09/page-01.webp",
+        "text": "小鹿的餐盘里有青菜、胡萝卜和玉米，可它只挑胡萝卜吃。"
+      },
+      {
+        "image": "images/stories/story-09/page-02.webp",
+        "text": "小鹿把青菜推到一边，说：“我不爱吃这个，我不爱吃这个。”"
+      },
+      {
+        "image": "images/stories/story-09/page-03.webp",
+        "text": "鹿妈妈说：“每样都尝一口，才有力气跑得快呀。”"
+      },
+      {
+        "image": "images/stories/story-09/page-04.webp",
+        "text": "小鹿闭上眼睛，尝了一口青菜。咦，有一点点甜甜的！"
+      },
+      {
+        "image": "images/stories/story-09/page-05.webp",
+        "text": "从那以后，小鹿每样都吃一点。它跑起来比以前还快。"
+      }
+    ],
+    "quiz": {
+      "question": "吃饭的时候，应该怎么做？",
+      "options": [
+        "只吃自己最爱的一样",
+        "把不爱吃的推到桌子外面",
+        "每样都尝一点，不挑食"
+      ],
+      "answerIndex": 2,
+      "explanation": "青菜、胡萝卜、米饭都要吃一点，身体才有足够的营养。"
+    }
+  },
+  {
+    "id": "story-10",
+    "title": "小羊走丢了找警察",
+    "theme": "走失不乱跑、找警察求助",
+    "cover": "images/stories/story-10/page-01.webp",
+    "pages": [
+      {
+        "image": "images/stories/story-10/page-01.webp",
+        "text": "集市上人好多，小羊一回头，发现妈妈不见了。"
+      },
+      {
+        "image": "images/stories/story-10/page-02.webp",
+        "text": "小羊心里有点害怕。它想起妈妈说过：“走丢了，就站在原地不要乱跑。”"
+      },
+      {
+        "image": "images/stories/story-10/page-03.webp",
+        "text": "小羊乖乖站在一棵大树旁边。它没有乱走，也没有跟陌生人走。"
+      },
+      {
+        "image": "images/stories/story-10/page-04.webp",
+        "text": "不一会儿，一位穿制服的警察叔叔找到了小羊，牵着它去广播站找妈妈。"
+      },
+      {
+        "image": "images/stories/story-10/page-05.webp",
+        "text": "小羊一下抱住妈妈说：“谢谢你！”它记住了：走丢了不要乱跑，要找警察叔叔帮忙。"
+      }
+    ],
+    "quiz": {
+      "question": "在商场和妈妈走散了，应该怎么办？",
+      "options": [
+        "自己跑出去到处找妈妈",
+        "跟着看起来很热心的陌生人走",
+        "站在原地等，或者找警察叔叔帮忙"
+      ],
+      "answerIndex": 2,
+      "explanation": "不要乱跑，也不要跟陌生人走，原地等大人或者找警察最安全。"
+    }
+  }
+]

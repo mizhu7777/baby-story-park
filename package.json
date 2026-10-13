@@ -1,0 +1,15 @@
+{
+  "name": "baby-story-park",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "宝宝的故事乐园 - 面向 4 岁儿童的中文图文故事学习 PWA",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
