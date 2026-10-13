@@ -5,3 +5,16 @@ dist/
 
 # Agnes 生成的原始 PNG 缓存，不进版本库（WebP 成品在 public/ 下）
 tools/.cache/
+
+# 防御性规则：任何可能含密钥的文件一律不进库
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+*secret*
+*token*
+.npmrc
+id_rsa*
