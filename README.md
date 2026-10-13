@@ -206,26 +206,28 @@ python tools/agnes_generate.py --mode t2i      # 只用文生图
 
 ## 七、部署
 
-最简单的方案是 **GitHub Pages**（无需服务器、无需备案）。
+本仓库已配置 GitHub Actions 自动部署（`.github/workflows/deploy.yml`）：
+每次推送到 `main` 会自动 `npm ci → npm run build → 部署 dist/`。
 
-```bash
-npm run build
-```
-
-然后把 `dist/` 里的内容推到仓库的 `gh-pages` 分支，或直接在仓库设置里把
-Pages 的 Source 指向 `main` 分支的 `/docs`，把 `dist/` 内容复制进 `docs/`。
+**线上网址：** https://mizhu7777.github.io/baby-story-park/
 
 因为 `vite.config.js` 里设了 `base: './'`，产物全部使用相对路径，
-**部署到 `https://<用户名>.github.io/<仓库名>/` 这样的子目录也能正常工作**，不需要额外改配置。
+所以部署在子目录 `/baby-story-park/` 下也能正常工作。
 
-其他任选其一：
+也可以部署到其它静态托管：
 
 - **Cloudflare Pages**：Build command `npm run build`，Output directory `dist`
 - **Vercel**：Framework preset `Vite`，Output directory `dist`
 - **Netlify**：Build `npm run build`，Publish directory `dist`
 
 > Service Worker 需要 HTTPS，上面几个平台默认都提供 HTTPS。
-> 本仓库**不会**自动登录或发布到任何账号，部署动作请自行执行。
+> 局域网（http://192.168.x.x:4173）访问时 Service Worker 不注册，
+> 因此**没有离线功能**，「准备离线内容」按钮也不生效。
+>
+> ⚠️ **API Key 不要提交到仓库。** `tools/agnes_generate.py` 从环境变量
+> `AGNES_API_KEY` 读取密钥，`.gitignore` 已阻断 `.env`、`*.pem`、`*.key`
+> 等常见敏感文件。如果你确实需要在 CI 里用到密钥，请用
+> Settings → Secrets and variables → Actions 添加为 Secret，不要写进代码。
 
 ---
 
